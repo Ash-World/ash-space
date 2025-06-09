@@ -43,6 +43,7 @@
 
 ## 🏵️ Conference
 
+* [첫번째 이직 후기](conference/undefined.md)
 * [일할맛 판교 3월 세미나](conference/3.md)
 * [LangChainOpenTutorial를 진행하며](conference/langchainopentutorial.md)
 * [Talk: Prompt and Language The Science of Prompts 후기](conference/talk-prompt-and-language-the-science-of-prompts.md)
