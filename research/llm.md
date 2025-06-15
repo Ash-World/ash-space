@@ -4,9 +4,7 @@ description: 2025.05.05.
 
 # LLM의 답변 컨트롤을 알아보자!
 
-<figure><img src="../.gitbook/assets/그림1.png" alt="" width="375"><figcaption><p>에휴..</p></figcaption></figure>
-
-
+<figure><img src="../.gitbook/assets/image (138).png" alt=""><figcaption><p>LLM의 답변 컨트롤 하는 방법을 알아보자.</p></figcaption></figure>
 
 흔히 이런말을 들어본적이 있을 것이다.&#x20;
 
