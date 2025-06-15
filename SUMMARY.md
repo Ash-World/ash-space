@@ -38,7 +38,7 @@
 * [Chill칠치 못한 Function Calling](research/chill-function-calling.md)
 * [RAG 평가지표 정복하기](research/rag-1.md)
 * [LLM Quantization 방법론 알아보기](research/llm-quantization.md)
-* [LLM은 더우면 헛소리를 해?](research/llm.md)
+* [LLM의 답변 컨트롤을 알아보자!](research/llm.md)
 * [놓치기 쉬운 Max Positional Embedding](research/max-positional-embedding.md)
 
 ## 🏵️ Conference

@@ -31,7 +31,7 @@ layout:
 ## <mark style="color:blue;">2025.</mark>
 
 * \[🤖🦜📑] June 13 : [놓치기 쉬운 Max Positional Embedding](../max-positional-embedding.md)
-* \[🤖📑] May 5 : [LLM은 더우면 헛소리를 해?](../llm.md)
+* \[🤖📑] May 5 : [LLM의 답변 컨트롤을 알아보자!](../llm.md)
 * \[🤖📑] Apr 13 : [LLM Quantization 방법론 알아보기](../llm-quantization.md)
 * \[🦜🔬] Mar 29 : [RAG 평가지표 정복하기](../rag-1.md)
 * \[🦜🔬] Mar 10 : [Chill칠치 못한 Function Calling](../chill-function-calling.md)
