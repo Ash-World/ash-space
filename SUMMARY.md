@@ -4,7 +4,7 @@
 
 ## 🥑 Resume / CV
 
-* [Reseume / CV](resume-cv/reseume-cv.md)
+* [Resume / CV](resume-cv/resume-cv.md)
 
 ## 🗂️ Research
 
