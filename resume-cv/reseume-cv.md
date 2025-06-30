@@ -26,7 +26,7 @@ layout:
 
 ## <mark style="color:purple;">**Contact**</mark>&#x20;
 
-* **Name** : Choi Jae Hun
+* **Name** : Choi JaeHun
 * **Email** : diadiahun0902@gmail.com
 * **LinkedIn**: [linkedin.com/in/choijaehun](https://www.linkedin.com/in/choijaehun)
 * **Address**: Seoul, Geomcheongu
@@ -35,7 +35,7 @@ layout:
 
 ## <mark style="color:purple;">About</mark>&#x20;
 
-I am currently working as a **AI Researcher**. I have a strong interest to followings:&#x20;
+I am currently working as a **AI Research Engineer**. I have a strong interest to followings:&#x20;
 
 * Implementing hyper-personalized assistants using <mark style="color:green;">**RAG**</mark>, <mark style="color:purple;">**Agents**</mark>, and <mark style="color:blue;">**Prompt Engineering**</mark>.
 * **Extracting hidden information** from user instruction.
@@ -43,13 +43,22 @@ I am currently working as a **AI Researcher**. I have a strong interest to follo
 
 ***
 
-## <mark style="color:purple;">Career</mark> &#x20;
+## <mark style="color:purple;">Career</mark>
 
-### **AI Research Enigneer :** BrainCrew. Seoul, Korea - _June.2025 - <mark style="color:blue;">Present</mark>_
+### **AI Research Engineer :** BrainCrew Inc. <sub>:</sub>  <sub></sub><sub>_June. 2025 -_</sub><sub>_&#x20;_</sub><sub>_<mark style="color:blue;">Present</mark>_</sub>
 
-* Comming Soon..😊
+* **\[GoYoung Technology]** Project : Figma 2 Unity\
+  &#xNAN;_: July. 2025 \~ Present_
+  * Not Yet
+* **\[IBK System]** Project : RAG System\
+  &#xNAN;_: July. 2025 \~ Present_
+  * Not Yet
+* **\[HSAD]** Project : Intent moderating agent bot\
+  &#x20;_: June. 2025 ( 2 weeks )_
+  * Developed database handling and logging systems
+  * Designed and implemented a prompt evaluation framework
 
-### **AI Researcher :** InterX. Co. Seoul, Korea - _Apr. 2024 - June.2025 ( 1.2 year )_
+### **AI Researcher :** InterX. Co. <sub>:</sub> <sub></sub><sub>_Apr. 2024 - June. 2025_</sub>&#x20;
 
 * Responsible for overall tasks in the **RAG Parts** of the Gen.AI Team.
 * Developed the **Assistant Module** parts from the **Gen.AI Server Solution**.\
